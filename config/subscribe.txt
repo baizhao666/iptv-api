@@ -12,4 +12,4 @@ https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/6655.txt
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/广东.txt
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/广东组播.txt
 https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/香港澳台一锅端.txt
-https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
