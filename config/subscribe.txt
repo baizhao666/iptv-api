@@ -8,3 +8,7 @@ https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/dianshijia_10.1.txt
+https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/6655.txt
+https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/广东.txt
+https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/广东组播.txt
+https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/香港澳台一锅端.txt
