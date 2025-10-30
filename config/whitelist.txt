@@ -2,15 +2,15 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
-TVB翡翠,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
-翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
-翡翠台,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
-广东珠江,http://117.141.162.238:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
-广东珠江,http://171.38.107.33:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$广西联通
-广东珠江,http://tvtj1.jxwltx.com:8003/live2897.m3u8
-广东珠江,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
-广东珠江,http://go.bkpcp.top/mg/gdzj
+# TVB翡翠,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+# TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
+# 翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+# 翡翠台,http://r.jdshipin.com/62WM7
+# 翡翠台,http://r.jdshipin.com/qrfbg
+# 翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+# 翡翠台,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
+# 广东珠江,http://117.141.162.238:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
+# 广东珠江,http://171.38.107.33:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$广西联通
+# 广东珠江,http://tvtj1.jxwltx.com:8003/live2897.m3u8
+# 广东珠江,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
+# 广东珠江,http://go.bkpcp.top/mg/gdzj
