@@ -2,10 +2,39 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+# https://php.946985.filegear-sg.me/jackTV.m3u
+# https://php.946985.filegear-sg.me/test.m3u
+# https://live.catvod.com/live.php?token=0818f3e33bb972867cc3920ed543e5f4344b58b38f0a90740a23204a608f6a51
+# http://rihou.cc:555/gggg.nzk/
+# http://43.251.226.110:9991/db76zv
+# https://iptv.judy.edu.kg/get.php?username=tg_i5lulg15&password=3exzr63sche7&type=m3u_plus
+# https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u
+# https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+# https://raw.githubusercontent.com/wujiangliu/live-sources/main/dianshijia_10.1.txt
+# https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
+# https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.txt
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-txt/main/others_output.txt
+https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt
+https://raw.githubusercontent.com/baizhao666/baizhao666/main/feiyang.txt
+https://raw.githubusercontent.com/baizhao666/baizhao666/main/playlist.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/smartbeiyong.m3u
+https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/main/iptv.txt
+https://raw.githubusercontent.com/alantang1977/iptv_api/main/output/live_ipv4.txt
+https://raw.githubusercontent.com/alantang1977/IPTV_SuperA/main/output/result.txt
+https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt
+https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt
+https://raw.githubusercontent.com/baizhao666/baizhao666/main/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82026.m3u
+https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/myplaylist.m3u
+https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/jackTV.m3u
+https://raw.githubusercontent.com/baizhao666/baizhao666/refs/heads/main/telegram.m3u
+http://158.101.5.156:30000/mytv.m3u?token=mytv123
 
-
-
-
+# https://raw.githubusercontent.com/sammy0101/hk-iptv-auto/refs/heads/main/hk_live.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
